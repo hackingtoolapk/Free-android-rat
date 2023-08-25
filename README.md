@@ -57,3 +57,7 @@ Free android rat with much features
 🟩Auto Starts on restarting the device
 
 🟩Auto Starts when any notification arrives
+
+
+
+Telegram channel: https://t.me/freeapkhackingtools
